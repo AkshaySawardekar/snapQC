@@ -1,0 +1,3 @@
+
+#snapQC Installation...
+nuke.pluginAddPath('./snapQC')
